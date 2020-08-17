@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ecV0JMFgfn3DP955Yls0hwOAl0eaXLHfCEz9H2C7ZixEuTQaL+GmkZtvUdZ/PZRfZ3PDgUuCZaAhE7kVRp8SpQ==",
+  "success": true,
+  "projectFilePath": "F:\\.NET\\Calculator\\Calculator\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rajath Warrier\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.6\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.6.nupkg.sha512",
+    "C:\\Users\\Rajath Warrier\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.6\\microsoft.netcore.app.runtime.win-x64.3.1.6.nupkg.sha512",
+    "C:\\Users\\Rajath Warrier\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.6\\microsoft.aspnetcore.app.runtime.win-x64.3.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}
